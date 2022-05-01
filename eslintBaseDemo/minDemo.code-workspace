@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../prettierDemo"
+		},
+		{
+			"path": "../eslintDemo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../vueCliDemo/my-vue-app"
+		}
+	],
+	"settings": {}
+}

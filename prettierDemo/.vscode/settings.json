@@ -1,0 +1,10 @@
+{
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.enable": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.configPath": "",
+  "prettier.arrowParens": "always",
+  "prettier.insertPragma": false,
+  "prettier.printWidth": 80,
+  "prettier.bracketSpacing": true
+}
