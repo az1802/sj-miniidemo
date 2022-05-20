@@ -1,0 +1,149 @@
+2022-05-16 01:03:27,205 ERROR 54479 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:32,667 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:35,974 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:36,831 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:18:13,796 ERROR 55787 [-/127.0.0.1/-/5ms GET /news] nodejs.TypeError: Cannot destructure property 'serverUrl' of 'this.config.news' as it is undefined.
+    at NewsService.list (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/service/news.js:6:13)
+    at NewsController.list (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/news.js:7:45)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+
+pid: 55787
+hostname: 192.168.0.101
+
+2022-05-16 01:18:46,684 ERROR 55817 [-/127.0.0.1/-/5042ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5017,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 55817
+hostname: 192.168.0.101
+
+2022-05-16 01:19:17,840 ERROR 55844 [-/127.0.0.1/-/5049ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 55844
+hostname: 192.168.0.101
+
+2022-05-16 15:18:25,717 ERROR 70894 [-/127.0.0.1/-/4ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/user.js:6:38)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at testMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/middleware/test.js:4:11)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 70894
+hostname: sunjMacBook-Pro.local
+
+2022-05-16 15:35:20,332 ERROR 71512 [-/127.0.0.1/-/8ms GET /user] nodejs.ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6281feb8a3bb4117591bfe8b
+    at model.Model.save (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/mongoose/lib/model.js:486:20)
+    at UserController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/user.js:11:30)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at testMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/middleware/test.js:4:11)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+
+pid: 71512
+hostname: sunjMacBook-Pro.local
+

@@ -1,0 +1,917 @@
+2022-05-16 01:03:08,987 INFO 54479 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:03:09,003 INFO 54479 [egg-multipart] stream mode enable
+2022-05-16 01:03:09,065 INFO 54479 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:03:09,068 INFO 54479 [egg-security] use csrf middleware
+2022-05-16 01:03:09,068 INFO 54479 [egg-security] use methodnoallow middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] use noopen middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] use nosniff middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] use xssProtection middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] use xframe middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] use dta middleware
+2022-05-16 01:03:09,069 INFO 54479 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:03:09,076 INFO 54479 [egg:core] dump config after load, 3ms
+2022-05-16 01:03:09,085 INFO 54479 [egg-watcher:application] watcher start success
+2022-05-16 01:03:09,090 INFO 54479 [egg:core] dump config after ready, 4ms
+2022-05-16 01:04:00,456 INFO 54587 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:04:00,476 INFO 54587 [egg-multipart] stream mode enable
+2022-05-16 01:04:00,546 INFO 54587 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:04:00,549 INFO 54587 [egg-security] use csrf middleware
+2022-05-16 01:04:00,550 INFO 54587 [egg-security] use methodnoallow middleware
+2022-05-16 01:04:00,550 INFO 54587 [egg-security] use noopen middleware
+2022-05-16 01:04:00,550 INFO 54587 [egg-security] use nosniff middleware
+2022-05-16 01:04:00,550 INFO 54587 [egg-security] use xssProtection middleware
+2022-05-16 01:04:00,551 INFO 54587 [egg-security] use xframe middleware
+2022-05-16 01:04:00,551 INFO 54587 [egg-security] use dta middleware
+2022-05-16 01:04:00,551 INFO 54587 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:04:00,559 INFO 54587 [egg:core] dump config after load, 4ms
+2022-05-16 01:04:00,567 INFO 54587 [egg-watcher:application] watcher start success
+2022-05-16 01:04:00,572 INFO 54587 [egg:core] dump config after ready, 4ms
+2022-05-16 01:06:07,538 INFO 54825 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:06:07,558 INFO 54825 [egg-multipart] stream mode enable
+2022-05-16 01:06:07,630 INFO 54825 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:06:07,634 INFO 54825 [egg-security] use csrf middleware
+2022-05-16 01:06:07,634 INFO 54825 [egg-security] use methodnoallow middleware
+2022-05-16 01:06:07,634 INFO 54825 [egg-security] use noopen middleware
+2022-05-16 01:06:07,635 INFO 54825 [egg-security] use nosniff middleware
+2022-05-16 01:06:07,635 INFO 54825 [egg-security] use xssProtection middleware
+2022-05-16 01:06:07,635 INFO 54825 [egg-security] use xframe middleware
+2022-05-16 01:06:07,635 INFO 54825 [egg-security] use dta middleware
+2022-05-16 01:06:07,635 INFO 54825 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:06:07,644 INFO 54825 [egg:core] dump config after load, 4ms
+2022-05-16 01:06:07,653 INFO 54825 [egg-watcher:application] watcher start success
+2022-05-16 01:06:07,658 INFO 54825 [egg:core] dump config after ready, 4ms
+2022-05-16 01:12:05,097 INFO 55194 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:12:05,120 INFO 55194 [egg-multipart] stream mode enable
+2022-05-16 01:12:05,181 INFO 55194 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:12:05,184 INFO 55194 [egg-security] use csrf middleware
+2022-05-16 01:12:05,185 INFO 55194 [egg-security] use methodnoallow middleware
+2022-05-16 01:12:05,185 INFO 55194 [egg-security] use noopen middleware
+2022-05-16 01:12:05,185 INFO 55194 [egg-security] use nosniff middleware
+2022-05-16 01:12:05,186 INFO 55194 [egg-security] use xssProtection middleware
+2022-05-16 01:12:05,186 INFO 55194 [egg-security] use xframe middleware
+2022-05-16 01:12:05,186 INFO 55194 [egg-security] use dta middleware
+2022-05-16 01:12:05,186 INFO 55194 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:12:05,196 INFO 55194 [egg:core] dump config after load, 6ms
+2022-05-16 01:12:05,205 INFO 55194 [egg-watcher:application] watcher start success
+2022-05-16 01:12:05,210 INFO 55194 [egg:core] dump config after ready, 4ms
+2022-05-16 01:12:29,361 INFO 55274 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:12:29,381 INFO 55274 [egg-multipart] stream mode enable
+2022-05-16 01:12:29,441 INFO 55274 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:12:29,444 INFO 55274 [egg-security] use csrf middleware
+2022-05-16 01:12:29,448 INFO 55274 [egg-security] use methodnoallow middleware
+2022-05-16 01:12:29,449 INFO 55274 [egg-security] use noopen middleware
+2022-05-16 01:12:29,455 INFO 55274 [egg-security] use nosniff middleware
+2022-05-16 01:12:29,456 INFO 55274 [egg-security] use xssProtection middleware
+2022-05-16 01:12:29,456 INFO 55274 [egg-security] use xframe middleware
+2022-05-16 01:12:29,456 INFO 55274 [egg-security] use dta middleware
+2022-05-16 01:12:29,456 INFO 55274 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:12:29,468 INFO 55274 [egg:core] dump config after load, 8ms
+2022-05-16 01:12:29,475 INFO 55274 [egg-watcher:application] watcher start success
+2022-05-16 01:12:29,480 INFO 55274 [egg:core] dump config after ready, 4ms
+2022-05-16 01:13:19,614 INFO 55419 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:13:19,634 INFO 55419 [egg-multipart] stream mode enable
+2022-05-16 01:13:19,698 INFO 55419 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:13:19,701 INFO 55419 [egg-security] use csrf middleware
+2022-05-16 01:13:19,702 INFO 55419 [egg-security] use methodnoallow middleware
+2022-05-16 01:13:19,702 INFO 55419 [egg-security] use noopen middleware
+2022-05-16 01:13:19,703 INFO 55419 [egg-security] use nosniff middleware
+2022-05-16 01:13:19,703 INFO 55419 [egg-security] use xssProtection middleware
+2022-05-16 01:13:19,703 INFO 55419 [egg-security] use xframe middleware
+2022-05-16 01:13:19,703 INFO 55419 [egg-security] use dta middleware
+2022-05-16 01:13:19,704 INFO 55419 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:13:19,714 INFO 55419 [egg:core] dump config after load, 7ms
+2022-05-16 01:13:19,723 INFO 55419 [egg-watcher:application] watcher start success
+2022-05-16 01:13:19,729 INFO 55419 [egg:core] dump config after ready, 4ms
+2022-05-16 01:16:36,644 INFO 55673 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:16:36,668 INFO 55673 [egg-multipart] stream mode enable
+2022-05-16 01:16:36,721 INFO 55673 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:16:36,724 INFO 55673 [egg-security] use csrf middleware
+2022-05-16 01:16:36,725 INFO 55673 [egg-security] use methodnoallow middleware
+2022-05-16 01:16:36,725 INFO 55673 [egg-security] use noopen middleware
+2022-05-16 01:16:36,725 INFO 55673 [egg-security] use nosniff middleware
+2022-05-16 01:16:36,725 INFO 55673 [egg-security] use xssProtection middleware
+2022-05-16 01:16:36,726 INFO 55673 [egg-security] use xframe middleware
+2022-05-16 01:16:36,726 INFO 55673 [egg-security] use dta middleware
+2022-05-16 01:16:36,726 INFO 55673 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:16:36,737 INFO 55673 [egg:core] dump config after load, 7ms
+2022-05-16 01:16:36,745 INFO 55673 [egg-watcher:application] watcher start success
+2022-05-16 01:16:36,751 INFO 55673 [egg:core] dump config after ready, 4ms
+2022-05-16 01:16:42,780 INFO 55689 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:16:42,810 INFO 55689 [egg-multipart] stream mode enable
+2022-05-16 01:16:42,861 INFO 55689 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:16:42,864 INFO 55689 [egg-security] use csrf middleware
+2022-05-16 01:16:42,865 INFO 55689 [egg-security] use methodnoallow middleware
+2022-05-16 01:16:42,865 INFO 55689 [egg-security] use noopen middleware
+2022-05-16 01:16:42,865 INFO 55689 [egg-security] use nosniff middleware
+2022-05-16 01:16:42,865 INFO 55689 [egg-security] use xssProtection middleware
+2022-05-16 01:16:42,866 INFO 55689 [egg-security] use xframe middleware
+2022-05-16 01:16:42,866 INFO 55689 [egg-security] use dta middleware
+2022-05-16 01:16:42,866 INFO 55689 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:16:42,878 INFO 55689 [egg:core] dump config after load, 8ms
+2022-05-16 01:16:42,885 INFO 55689 [egg-watcher:application] watcher start success
+2022-05-16 01:16:42,891 INFO 55689 [egg:core] dump config after ready, 4ms
+2022-05-16 01:16:47,487 INFO 55703 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:16:47,507 INFO 55703 [egg-multipart] stream mode enable
+2022-05-16 01:16:47,571 INFO 55703 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:16:47,574 INFO 55703 [egg-security] use csrf middleware
+2022-05-16 01:16:47,574 INFO 55703 [egg-security] use methodnoallow middleware
+2022-05-16 01:16:47,575 INFO 55703 [egg-security] use noopen middleware
+2022-05-16 01:16:47,575 INFO 55703 [egg-security] use nosniff middleware
+2022-05-16 01:16:47,575 INFO 55703 [egg-security] use xssProtection middleware
+2022-05-16 01:16:47,575 INFO 55703 [egg-security] use xframe middleware
+2022-05-16 01:16:47,575 INFO 55703 [egg-security] use dta middleware
+2022-05-16 01:16:47,576 INFO 55703 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:16:47,583 INFO 55703 [egg:core] dump config after load, 4ms
+2022-05-16 01:16:47,591 INFO 55703 [egg-watcher:application] watcher start success
+2022-05-16 01:16:47,596 INFO 55703 [egg:core] dump config after ready, 4ms
+2022-05-16 01:16:58,089 INFO 55703 [egg-view-nunjucks] loading templates from ["/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/view"]
+2022-05-16 01:17:48,558 INFO 55746 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:17:48,579 INFO 55746 [egg-multipart] stream mode enable
+2022-05-16 01:17:48,638 INFO 55746 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:17:48,641 INFO 55746 [egg-security] use csrf middleware
+2022-05-16 01:17:48,641 INFO 55746 [egg-security] use methodnoallow middleware
+2022-05-16 01:17:48,642 INFO 55746 [egg-security] use noopen middleware
+2022-05-16 01:17:48,642 INFO 55746 [egg-security] use nosniff middleware
+2022-05-16 01:17:48,642 INFO 55746 [egg-security] use xssProtection middleware
+2022-05-16 01:17:48,642 INFO 55746 [egg-security] use xframe middleware
+2022-05-16 01:17:48,643 INFO 55746 [egg-security] use dta middleware
+2022-05-16 01:17:48,643 INFO 55746 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:17:48,654 INFO 55746 [egg:core] dump config after load, 6ms
+2022-05-16 01:17:48,661 INFO 55746 [egg-watcher:application] watcher start success
+2022-05-16 01:17:48,667 INFO 55746 [egg:core] dump config after ready, 4ms
+2022-05-16 01:17:53,648 INFO 55762 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:17:53,666 INFO 55762 [egg-multipart] stream mode enable
+2022-05-16 01:17:53,709 INFO 55762 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:17:53,712 INFO 55762 [egg-security] use csrf middleware
+2022-05-16 01:17:53,712 INFO 55762 [egg-security] use methodnoallow middleware
+2022-05-16 01:17:53,712 INFO 55762 [egg-security] use noopen middleware
+2022-05-16 01:17:53,712 INFO 55762 [egg-security] use nosniff middleware
+2022-05-16 01:17:53,712 INFO 55762 [egg-security] use xssProtection middleware
+2022-05-16 01:17:53,713 INFO 55762 [egg-security] use xframe middleware
+2022-05-16 01:17:53,713 INFO 55762 [egg-security] use dta middleware
+2022-05-16 01:17:53,713 INFO 55762 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:17:53,723 INFO 55762 [egg:core] dump config after load, 7ms
+2022-05-16 01:17:53,730 INFO 55762 [egg-watcher:application] watcher start success
+2022-05-16 01:17:53,735 INFO 55762 [egg:core] dump config after ready, 4ms
+2022-05-16 01:18:05,894 INFO 55787 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:18:05,914 INFO 55787 [egg-multipart] stream mode enable
+2022-05-16 01:18:05,976 INFO 55787 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:18:05,980 INFO 55787 [egg-security] use csrf middleware
+2022-05-16 01:18:05,980 INFO 55787 [egg-security] use methodnoallow middleware
+2022-05-16 01:18:05,980 INFO 55787 [egg-security] use noopen middleware
+2022-05-16 01:18:05,981 INFO 55787 [egg-security] use nosniff middleware
+2022-05-16 01:18:05,981 INFO 55787 [egg-security] use xssProtection middleware
+2022-05-16 01:18:05,981 INFO 55787 [egg-security] use xframe middleware
+2022-05-16 01:18:05,981 INFO 55787 [egg-security] use dta middleware
+2022-05-16 01:18:05,981 INFO 55787 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:18:05,991 INFO 55787 [egg:core] dump config after load, 6ms
+2022-05-16 01:18:05,999 INFO 55787 [egg-watcher:application] watcher start success
+2022-05-16 01:18:06,004 INFO 55787 [egg:core] dump config after ready, 4ms
+2022-05-16 01:18:36,746 INFO 55817 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:18:36,768 INFO 55817 [egg-multipart] stream mode enable
+2022-05-16 01:18:36,831 INFO 55817 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:18:36,834 INFO 55817 [egg-security] use csrf middleware
+2022-05-16 01:18:36,834 INFO 55817 [egg-security] use methodnoallow middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] use noopen middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] use nosniff middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] use xssProtection middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] use xframe middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] use dta middleware
+2022-05-16 01:18:36,835 INFO 55817 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:18:36,847 INFO 55817 [egg:core] dump config after load, 7ms
+2022-05-16 01:18:36,854 INFO 55817 [egg-watcher:application] watcher start success
+2022-05-16 01:18:36,860 INFO 55817 [egg:core] dump config after ready, 4ms
+2022-05-16 01:19:07,265 INFO 55844 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:19:07,285 INFO 55844 [egg-multipart] stream mode enable
+2022-05-16 01:19:07,336 INFO 55844 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:19:07,339 INFO 55844 [egg-security] use csrf middleware
+2022-05-16 01:19:07,340 INFO 55844 [egg-security] use methodnoallow middleware
+2022-05-16 01:19:07,340 INFO 55844 [egg-security] use noopen middleware
+2022-05-16 01:19:07,340 INFO 55844 [egg-security] use nosniff middleware
+2022-05-16 01:19:07,341 INFO 55844 [egg-security] use xssProtection middleware
+2022-05-16 01:19:07,341 INFO 55844 [egg-security] use xframe middleware
+2022-05-16 01:19:07,341 INFO 55844 [egg-security] use dta middleware
+2022-05-16 01:19:07,341 INFO 55844 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:19:07,353 INFO 55844 [egg:core] dump config after load, 7ms
+2022-05-16 01:19:07,361 INFO 55844 [egg-watcher:application] watcher start success
+2022-05-16 01:19:07,367 INFO 55844 [egg:core] dump config after ready, 5ms
+2022-05-16 01:20:04,096 INFO 55883 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:20:04,116 INFO 55883 [egg-multipart] stream mode enable
+2022-05-16 01:20:04,174 INFO 55883 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:20:04,177 INFO 55883 [egg-security] use csrf middleware
+2022-05-16 01:20:04,178 INFO 55883 [egg-security] use methodnoallow middleware
+2022-05-16 01:20:04,178 INFO 55883 [egg-security] use noopen middleware
+2022-05-16 01:20:04,178 INFO 55883 [egg-security] use nosniff middleware
+2022-05-16 01:20:04,179 INFO 55883 [egg-security] use xssProtection middleware
+2022-05-16 01:20:04,179 INFO 55883 [egg-security] use xframe middleware
+2022-05-16 01:20:04,179 INFO 55883 [egg-security] use dta middleware
+2022-05-16 01:20:04,179 INFO 55883 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:20:04,191 INFO 55883 [egg:core] dump config after load, 8ms
+2022-05-16 01:20:04,198 INFO 55883 [egg-watcher:application] watcher start success
+2022-05-16 01:20:04,203 INFO 55883 [egg:core] dump config after ready, 3ms
+2022-05-16 01:20:10,290 INFO 55904 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 01:20:10,311 INFO 55904 [egg-multipart] stream mode enable
+2022-05-16 01:20:10,364 INFO 55904 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 01:20:10,367 INFO 55904 [egg-security] use csrf middleware
+2022-05-16 01:20:10,368 INFO 55904 [egg-security] use methodnoallow middleware
+2022-05-16 01:20:10,368 INFO 55904 [egg-security] use noopen middleware
+2022-05-16 01:20:10,368 INFO 55904 [egg-security] use nosniff middleware
+2022-05-16 01:20:10,369 INFO 55904 [egg-security] use xssProtection middleware
+2022-05-16 01:20:10,369 INFO 55904 [egg-security] use xframe middleware
+2022-05-16 01:20:10,369 INFO 55904 [egg-security] use dta middleware
+2022-05-16 01:20:10,369 INFO 55904 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 01:20:10,380 INFO 55904 [egg:core] dump config after load, 7ms
+2022-05-16 01:20:10,391 INFO 55904 [egg-watcher:application] watcher start success
+2022-05-16 01:20:10,396 INFO 55904 [egg:core] dump config after ready, 4ms
+2022-05-16 01:49:28,146 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 01:49:28,149 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 01:55:01,927 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 01:58:22,151 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 01:58:22,151 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 02:03:56,212 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 02:03:56,212 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 02:09:43,275 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 02:09:43,275 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 02:15:20,554 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 02:15:20,554 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 03:22:17,777 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 03:22:17,778 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 03:27:53,608 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 03:27:53,608 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 04:33:04,324 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 04:33:04,325 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 04:33:04,412 INFO 55904 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/jp/jk0042994219rjg8k6cmzbf40000gp/T/egg-multipart-tmp/eggDemo"
+2022-05-16 04:33:04,439 INFO 55904 [-/127.0.0.1/-/49ms SCHEDULE /__schedule?path=/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2022-05-16 04:38:38,983 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 04:38:38,999 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 04:44:14,794 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 04:44:14,795 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 05:51:18,275 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 05:51:18,305 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 07:02:22,196 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 07:02:22,199 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 07:08:12,157 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 08:13:17,748 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 08:13:17,750 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 08:18:51,686 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 08:18:51,693 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 08:49:58,323 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 08:49:58,324 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 09:08:31,463 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 09:08:31,463 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 09:23:42,882 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 09:23:42,901 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 10:10:35,700 WARN 55904 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 10:10:35,701 WARN 55904 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 12:00:47,573 INFO 63857 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 12:00:47,598 INFO 63857 [egg-multipart] stream mode enable
+2022-05-16 12:00:47,670 INFO 63857 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 12:00:47,674 INFO 63857 [egg-security] use csrf middleware
+2022-05-16 12:00:47,674 INFO 63857 [egg-security] use methodnoallow middleware
+2022-05-16 12:00:47,675 INFO 63857 [egg-security] use noopen middleware
+2022-05-16 12:00:47,675 INFO 63857 [egg-security] use nosniff middleware
+2022-05-16 12:00:47,675 INFO 63857 [egg-security] use xssProtection middleware
+2022-05-16 12:00:47,676 INFO 63857 [egg-security] use xframe middleware
+2022-05-16 12:00:47,676 INFO 63857 [egg-security] use dta middleware
+2022-05-16 12:00:47,676 INFO 63857 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 12:00:47,695 INFO 63857 [egg:core] dump config after load, 13ms
+2022-05-16 12:00:47,704 INFO 63857 [egg-watcher:application] watcher start success
+2022-05-16 12:00:47,710 INFO 63857 [egg:core] dump config after ready, 4ms
+2022-05-16 12:01:51,249 INFO 63888 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 12:01:51,272 INFO 63888 [egg-multipart] stream mode enable
+2022-05-16 12:01:51,335 INFO 63888 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 12:01:51,339 INFO 63888 [egg-security] use csrf middleware
+2022-05-16 12:01:51,340 INFO 63888 [egg-security] use methodnoallow middleware
+2022-05-16 12:01:51,340 INFO 63888 [egg-security] use noopen middleware
+2022-05-16 12:01:51,340 INFO 63888 [egg-security] use nosniff middleware
+2022-05-16 12:01:51,341 INFO 63888 [egg-security] use xssProtection middleware
+2022-05-16 12:01:51,341 INFO 63888 [egg-security] use xframe middleware
+2022-05-16 12:01:51,341 INFO 63888 [egg-security] use dta middleware
+2022-05-16 12:01:51,341 INFO 63888 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 12:01:51,353 INFO 63888 [egg:core] dump config after load, 7ms
+2022-05-16 12:01:51,361 INFO 63888 [egg-watcher:application] watcher start success
+2022-05-16 12:01:51,366 INFO 63888 [egg:core] dump config after ready, 4ms
+2022-05-16 12:02:00,452 INFO 63902 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 12:02:00,475 INFO 63902 [egg-multipart] stream mode enable
+2022-05-16 12:02:00,539 INFO 63902 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 12:02:00,542 INFO 63902 [egg-security] use csrf middleware
+2022-05-16 12:02:00,542 INFO 63902 [egg-security] use methodnoallow middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] use noopen middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] use nosniff middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] use xssProtection middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] use xframe middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] use dta middleware
+2022-05-16 12:02:00,543 INFO 63902 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 12:02:00,553 INFO 63902 [egg:core] dump config after load, 6ms
+2022-05-16 12:02:00,561 INFO 63902 [egg-watcher:application] watcher start success
+2022-05-16 12:02:00,567 INFO 63902 [egg:core] dump config after ready, 5ms
+2022-05-16 12:03:36,434 INFO 63961 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 12:03:36,455 INFO 63961 [egg-multipart] stream mode enable
+2022-05-16 12:03:36,526 INFO 63961 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 12:03:36,529 INFO 63961 [egg-security] use csrf middleware
+2022-05-16 12:03:36,530 INFO 63961 [egg-security] use methodnoallow middleware
+2022-05-16 12:03:36,530 INFO 63961 [egg-security] use noopen middleware
+2022-05-16 12:03:36,530 INFO 63961 [egg-security] use nosniff middleware
+2022-05-16 12:03:36,530 INFO 63961 [egg-security] use xssProtection middleware
+2022-05-16 12:03:36,530 INFO 63961 [egg-security] use xframe middleware
+2022-05-16 12:03:36,531 INFO 63961 [egg-security] use dta middleware
+2022-05-16 12:03:36,531 INFO 63961 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 12:03:36,542 INFO 63961 [egg:core] dump config after load, 4ms
+2022-05-16 12:03:36,549 INFO 63961 [egg-watcher:application] watcher start success
+2022-05-16 12:03:36,554 INFO 63961 [egg:core] dump config after ready, 4ms
+2022-05-16 12:47:52,428 WARN 63961 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 12:47:52,454 WARN 63961 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 13:05:06,019 WARN 63961 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-16 13:05:06,021 WARN 63961 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-16 14:59:34,826 INFO 69099 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 14:59:34,849 INFO 69099 [egg-multipart] stream mode enable
+2022-05-16 14:59:34,925 INFO 69099 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 14:59:34,928 INFO 69099 [egg-security] use csrf middleware
+2022-05-16 14:59:34,928 INFO 69099 [egg-security] use methodnoallow middleware
+2022-05-16 14:59:34,929 INFO 69099 [egg-security] use noopen middleware
+2022-05-16 14:59:34,929 INFO 69099 [egg-security] use nosniff middleware
+2022-05-16 14:59:34,929 INFO 69099 [egg-security] use xssProtection middleware
+2022-05-16 14:59:34,929 INFO 69099 [egg-security] use xframe middleware
+2022-05-16 14:59:34,929 INFO 69099 [egg-security] use dta middleware
+2022-05-16 14:59:34,930 INFO 69099 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 14:59:34,950 INFO 69099 [egg:core] dump config after load, 9ms
+2022-05-16 14:59:34,968 INFO 69099 [egg-watcher:application] watcher start success
+2022-05-16 14:59:34,977 INFO 69099 [egg:core] dump config after ready, 6ms
+2022-05-16 15:00:00,153 INFO 69138 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:00:00,175 INFO 69138 [egg-multipart] stream mode enable
+2022-05-16 15:00:00,233 INFO 69138 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:00:00,238 INFO 69138 [egg-security] use csrf middleware
+2022-05-16 15:00:00,238 INFO 69138 [egg-security] use methodnoallow middleware
+2022-05-16 15:00:00,239 INFO 69138 [egg-security] use noopen middleware
+2022-05-16 15:00:00,239 INFO 69138 [egg-security] use nosniff middleware
+2022-05-16 15:00:00,239 INFO 69138 [egg-security] use xssProtection middleware
+2022-05-16 15:00:00,240 INFO 69138 [egg-security] use xframe middleware
+2022-05-16 15:00:00,240 INFO 69138 [egg-security] use dta middleware
+2022-05-16 15:00:00,240 INFO 69138 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:00:00,252 INFO 69138 [egg:core] dump config after load, 5ms
+2022-05-16 15:00:00,261 INFO 69138 [egg-watcher:application] watcher start success
+2022-05-16 15:00:00,267 INFO 69138 [egg:core] dump config after ready, 4ms
+2022-05-16 15:00:09,013 INFO 69152 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:00:09,033 INFO 69152 [egg-multipart] stream mode enable
+2022-05-16 15:00:09,089 INFO 69152 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:00:09,092 INFO 69152 [egg-security] use csrf middleware
+2022-05-16 15:00:09,092 INFO 69152 [egg-security] use methodnoallow middleware
+2022-05-16 15:00:09,093 INFO 69152 [egg-security] use noopen middleware
+2022-05-16 15:00:09,093 INFO 69152 [egg-security] use nosniff middleware
+2022-05-16 15:00:09,093 INFO 69152 [egg-security] use xssProtection middleware
+2022-05-16 15:00:09,093 INFO 69152 [egg-security] use xframe middleware
+2022-05-16 15:00:09,094 INFO 69152 [egg-security] use dta middleware
+2022-05-16 15:00:09,094 INFO 69152 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:00:09,104 INFO 69152 [egg:core] dump config after load, 6ms
+2022-05-16 15:00:09,112 INFO 69152 [egg-watcher:application] watcher start success
+2022-05-16 15:00:09,117 INFO 69152 [egg:core] dump config after ready, 4ms
+2022-05-16 15:00:18,246 INFO 69164 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:00:18,268 INFO 69164 [egg-multipart] stream mode enable
+2022-05-16 15:00:18,328 INFO 69164 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:00:18,331 INFO 69164 [egg-security] use csrf middleware
+2022-05-16 15:00:18,332 INFO 69164 [egg-security] use methodnoallow middleware
+2022-05-16 15:00:18,332 INFO 69164 [egg-security] use noopen middleware
+2022-05-16 15:00:18,333 INFO 69164 [egg-security] use nosniff middleware
+2022-05-16 15:00:18,333 INFO 69164 [egg-security] use xssProtection middleware
+2022-05-16 15:00:18,334 INFO 69164 [egg-security] use xframe middleware
+2022-05-16 15:00:18,334 INFO 69164 [egg-security] use dta middleware
+2022-05-16 15:00:18,334 INFO 69164 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:00:18,346 INFO 69164 [egg:core] dump config after load, 5ms
+2022-05-16 15:00:18,353 INFO 69164 [egg-watcher:application] watcher start success
+2022-05-16 15:00:18,358 INFO 69164 [egg:core] dump config after ready, 4ms
+2022-05-16 15:02:48,228 INFO 69285 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:02:48,257 INFO 69285 [egg-multipart] stream mode enable
+2022-05-16 15:02:48,322 INFO 69285 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:02:48,327 INFO 69285 [egg-security] use csrf middleware
+2022-05-16 15:02:48,327 INFO 69285 [egg-security] use methodnoallow middleware
+2022-05-16 15:02:48,327 INFO 69285 [egg-security] use noopen middleware
+2022-05-16 15:02:48,328 INFO 69285 [egg-security] use nosniff middleware
+2022-05-16 15:02:48,328 INFO 69285 [egg-security] use xssProtection middleware
+2022-05-16 15:02:48,328 INFO 69285 [egg-security] use xframe middleware
+2022-05-16 15:02:48,328 INFO 69285 [egg-security] use dta middleware
+2022-05-16 15:02:48,328 INFO 69285 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:02:48,344 INFO 69285 [egg:core] dump config after load, 6ms
+2022-05-16 15:02:48,351 INFO 69285 [egg-watcher:application] watcher start success
+2022-05-16 15:02:48,357 INFO 69285 [egg:core] dump config after ready, 5ms
+2022-05-16 15:17:25,519 INFO 70802 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:17:25,546 INFO 70802 [egg-multipart] stream mode enable
+2022-05-16 15:17:25,745 INFO 70802 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:17:25,842 INFO 70802 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:17:25,846 INFO 70802 [egg-security] use csrf middleware
+2022-05-16 15:17:25,847 INFO 70802 [egg-security] use methodnoallow middleware
+2022-05-16 15:17:25,847 INFO 70802 [egg-security] use noopen middleware
+2022-05-16 15:17:25,848 INFO 70802 [egg-security] use nosniff middleware
+2022-05-16 15:17:25,848 INFO 70802 [egg-security] use xssProtection middleware
+2022-05-16 15:17:25,849 INFO 70802 [egg-security] use xframe middleware
+2022-05-16 15:17:25,849 INFO 70802 [egg-security] use dta middleware
+2022-05-16 15:17:25,849 INFO 70802 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:17:25,859 INFO 70802 [egg:core] dump config after load, 5ms
+2022-05-16 15:17:25,862 INFO 70802 [egg-mongoose] starting...
+2022-05-16 15:17:25,884 INFO 70802 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:17:25,886 INFO 70802 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:17:25,887 INFO 70802 [egg-watcher:application] watcher start success
+2022-05-16 15:17:25,894 INFO 70802 [egg:core] dump config after ready, 5ms
+2022-05-16 15:18:01,326 INFO 70854 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:18:01,348 INFO 70854 [egg-multipart] stream mode enable
+2022-05-16 15:18:01,561 INFO 70854 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:18:01,649 INFO 70854 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:18:01,653 INFO 70854 [egg-security] use csrf middleware
+2022-05-16 15:18:01,653 INFO 70854 [egg-security] use methodnoallow middleware
+2022-05-16 15:18:01,654 INFO 70854 [egg-security] use noopen middleware
+2022-05-16 15:18:01,654 INFO 70854 [egg-security] use nosniff middleware
+2022-05-16 15:18:01,654 INFO 70854 [egg-security] use xssProtection middleware
+2022-05-16 15:18:01,655 INFO 70854 [egg-security] use xframe middleware
+2022-05-16 15:18:01,655 INFO 70854 [egg-security] use dta middleware
+2022-05-16 15:18:01,655 INFO 70854 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:18:01,663 INFO 70854 [egg:core] dump config after load, 4ms
+2022-05-16 15:18:01,665 INFO 70854 [egg-mongoose] starting...
+2022-05-16 15:18:01,679 INFO 70854 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:18:01,680 INFO 70854 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:18:01,682 INFO 70854 [egg-watcher:application] watcher start success
+2022-05-16 15:18:01,690 INFO 70854 [egg:core] dump config after ready, 6ms
+2022-05-16 15:18:16,583 INFO 70894 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:18:16,601 INFO 70894 [egg-multipart] stream mode enable
+2022-05-16 15:18:16,797 INFO 70894 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:18:16,867 INFO 70894 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:18:16,870 INFO 70894 [egg-security] use csrf middleware
+2022-05-16 15:18:16,871 INFO 70894 [egg-security] use methodnoallow middleware
+2022-05-16 15:18:16,871 INFO 70894 [egg-security] use noopen middleware
+2022-05-16 15:18:16,872 INFO 70894 [egg-security] use nosniff middleware
+2022-05-16 15:18:16,872 INFO 70894 [egg-security] use xssProtection middleware
+2022-05-16 15:18:16,872 INFO 70894 [egg-security] use xframe middleware
+2022-05-16 15:18:16,873 INFO 70894 [egg-security] use dta middleware
+2022-05-16 15:18:16,873 INFO 70894 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:18:16,881 INFO 70894 [egg:core] dump config after load, 4ms
+2022-05-16 15:18:16,882 INFO 70894 [egg-mongoose] starting...
+2022-05-16 15:18:16,897 INFO 70894 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:18:16,898 INFO 70894 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:18:16,899 INFO 70894 [egg-watcher:application] watcher start success
+2022-05-16 15:18:16,916 INFO 70894 [egg:core] dump config after ready, 7ms
+2022-05-16 15:21:46,600 INFO 70967 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:21:46,622 INFO 70967 [egg-multipart] stream mode enable
+2022-05-16 15:21:46,854 INFO 70967 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:21:46,945 INFO 70967 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:21:46,949 INFO 70967 [egg-security] use csrf middleware
+2022-05-16 15:21:46,949 INFO 70967 [egg-security] use methodnoallow middleware
+2022-05-16 15:21:46,950 INFO 70967 [egg-security] use noopen middleware
+2022-05-16 15:21:46,950 INFO 70967 [egg-security] use nosniff middleware
+2022-05-16 15:21:46,951 INFO 70967 [egg-security] use xssProtection middleware
+2022-05-16 15:21:46,951 INFO 70967 [egg-security] use xframe middleware
+2022-05-16 15:21:46,952 INFO 70967 [egg-security] use dta middleware
+2022-05-16 15:21:46,952 INFO 70967 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:21:46,961 INFO 70967 [egg:core] dump config after load, 5ms
+2022-05-16 15:21:46,962 INFO 70967 [egg-mongoose] starting...
+2022-05-16 15:21:46,977 INFO 70967 [egg-watcher:application] watcher start success
+2022-05-16 15:21:46,981 INFO 70967 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:21:46,981 INFO 70967 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:21:46,993 INFO 70967 [egg:core] dump config after ready, 10ms
+2022-05-16 15:21:55,381 INFO 70989 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:21:55,406 INFO 70989 [egg-multipart] stream mode enable
+2022-05-16 15:21:55,647 INFO 70989 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:21:55,748 INFO 70989 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:21:55,758 INFO 70989 [egg-security] use csrf middleware
+2022-05-16 15:21:55,758 INFO 70989 [egg-security] use methodnoallow middleware
+2022-05-16 15:21:55,759 INFO 70989 [egg-security] use noopen middleware
+2022-05-16 15:21:55,760 INFO 70989 [egg-security] use nosniff middleware
+2022-05-16 15:21:55,760 INFO 70989 [egg-security] use xssProtection middleware
+2022-05-16 15:21:55,760 INFO 70989 [egg-security] use xframe middleware
+2022-05-16 15:21:55,761 INFO 70989 [egg-security] use dta middleware
+2022-05-16 15:21:55,761 INFO 70989 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:21:55,770 INFO 70989 [egg:core] dump config after load, 4ms
+2022-05-16 15:21:55,772 INFO 70989 [egg-mongoose] starting...
+2022-05-16 15:21:55,795 INFO 70989 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:21:55,796 INFO 70989 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:21:55,798 INFO 70989 [egg-watcher:application] watcher start success
+2022-05-16 15:21:55,814 INFO 70989 [egg:core] dump config after ready, 8ms
+2022-05-16 15:22:27,749 INFO 71007 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:22:27,783 INFO 71007 [egg-multipart] stream mode enable
+2022-05-16 15:22:28,010 INFO 71007 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:22:28,093 INFO 71007 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:22:28,096 INFO 71007 [egg-security] use csrf middleware
+2022-05-16 15:22:28,097 INFO 71007 [egg-security] use methodnoallow middleware
+2022-05-16 15:22:28,097 INFO 71007 [egg-security] use noopen middleware
+2022-05-16 15:22:28,097 INFO 71007 [egg-security] use nosniff middleware
+2022-05-16 15:22:28,098 INFO 71007 [egg-security] use xssProtection middleware
+2022-05-16 15:22:28,098 INFO 71007 [egg-security] use xframe middleware
+2022-05-16 15:22:28,099 INFO 71007 [egg-security] use dta middleware
+2022-05-16 15:22:28,099 INFO 71007 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:22:28,109 INFO 71007 [egg:core] dump config after load, 6ms
+2022-05-16 15:22:28,111 INFO 71007 [egg-mongoose] starting...
+2022-05-16 15:22:28,129 INFO 71007 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:22:28,130 INFO 71007 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:22:28,132 INFO 71007 [egg-watcher:application] watcher start success
+2022-05-16 15:22:28,141 INFO 71007 [egg:core] dump config after ready, 8ms
+2022-05-16 15:22:44,437 INFO 71033 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:22:44,459 INFO 71033 [egg-multipart] stream mode enable
+2022-05-16 15:22:44,711 INFO 71033 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:22:44,814 INFO 71033 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:22:44,817 INFO 71033 [egg-security] use csrf middleware
+2022-05-16 15:22:44,818 INFO 71033 [egg-security] use methodnoallow middleware
+2022-05-16 15:22:44,818 INFO 71033 [egg-security] use noopen middleware
+2022-05-16 15:22:44,819 INFO 71033 [egg-security] use nosniff middleware
+2022-05-16 15:22:44,819 INFO 71033 [egg-security] use xssProtection middleware
+2022-05-16 15:22:44,820 INFO 71033 [egg-security] use xframe middleware
+2022-05-16 15:22:44,820 INFO 71033 [egg-security] use dta middleware
+2022-05-16 15:22:44,820 INFO 71033 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:22:44,829 INFO 71033 [egg:core] dump config after load, 5ms
+2022-05-16 15:22:44,831 INFO 71033 [egg-mongoose] starting...
+2022-05-16 15:22:44,860 INFO 71033 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:22:44,861 INFO 71033 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:22:44,864 INFO 71033 [egg-watcher:application] watcher start success
+2022-05-16 15:22:44,875 INFO 71033 [egg:core] dump config after ready, 9ms
+2022-05-16 15:22:53,120 INFO 71063 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:22:53,140 INFO 71063 [egg-multipart] stream mode enable
+2022-05-16 15:22:53,354 INFO 71063 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:22:53,445 INFO 71063 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:22:53,449 INFO 71063 [egg-security] use csrf middleware
+2022-05-16 15:22:53,449 INFO 71063 [egg-security] use methodnoallow middleware
+2022-05-16 15:22:53,449 INFO 71063 [egg-security] use noopen middleware
+2022-05-16 15:22:53,450 INFO 71063 [egg-security] use nosniff middleware
+2022-05-16 15:22:53,450 INFO 71063 [egg-security] use xssProtection middleware
+2022-05-16 15:22:53,451 INFO 71063 [egg-security] use xframe middleware
+2022-05-16 15:22:53,451 INFO 71063 [egg-security] use dta middleware
+2022-05-16 15:22:53,451 INFO 71063 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:22:53,463 INFO 71063 [egg:core] dump config after load, 5ms
+2022-05-16 15:22:53,464 INFO 71063 [egg-mongoose] starting...
+2022-05-16 15:22:53,484 INFO 71063 [egg-watcher:application] watcher start success
+2022-05-16 15:22:53,486 INFO 71063 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:22:53,487 INFO 71063 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:22:53,495 INFO 71063 [egg:core] dump config after ready, 6ms
+2022-05-16 15:23:01,930 INFO 71078 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:23:01,961 INFO 71078 [egg-multipart] stream mode enable
+2022-05-16 15:23:02,271 INFO 71078 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:23:02,443 INFO 71078 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:23:02,448 INFO 71078 [egg-security] use csrf middleware
+2022-05-16 15:23:02,449 INFO 71078 [egg-security] use methodnoallow middleware
+2022-05-16 15:23:02,449 INFO 71078 [egg-security] use noopen middleware
+2022-05-16 15:23:02,450 INFO 71078 [egg-security] use nosniff middleware
+2022-05-16 15:23:02,450 INFO 71078 [egg-security] use xssProtection middleware
+2022-05-16 15:23:02,450 INFO 71078 [egg-security] use xframe middleware
+2022-05-16 15:23:02,451 INFO 71078 [egg-security] use dta middleware
+2022-05-16 15:23:02,451 INFO 71078 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:23:02,463 INFO 71078 [egg:core] dump config after load, 7ms
+2022-05-16 15:23:02,466 INFO 71078 [egg-mongoose] starting...
+2022-05-16 15:23:02,490 INFO 71078 [egg-watcher:application] watcher start success
+2022-05-16 15:23:02,495 INFO 71078 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:23:02,496 INFO 71078 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:23:02,514 INFO 71078 [egg:core] dump config after ready, 14ms
+2022-05-16 15:23:11,524 INFO 71097 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:23:11,547 INFO 71097 [egg-multipart] stream mode enable
+2022-05-16 15:23:11,762 INFO 71097 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:23:11,837 INFO 71097 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:23:11,840 INFO 71097 [egg-security] use csrf middleware
+2022-05-16 15:23:11,841 INFO 71097 [egg-security] use methodnoallow middleware
+2022-05-16 15:23:11,841 INFO 71097 [egg-security] use noopen middleware
+2022-05-16 15:23:11,842 INFO 71097 [egg-security] use nosniff middleware
+2022-05-16 15:23:11,842 INFO 71097 [egg-security] use xssProtection middleware
+2022-05-16 15:23:11,843 INFO 71097 [egg-security] use xframe middleware
+2022-05-16 15:23:11,843 INFO 71097 [egg-security] use dta middleware
+2022-05-16 15:23:11,843 INFO 71097 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:23:11,873 INFO 71097 [egg:core] dump config after load, 22ms
+2022-05-16 15:23:11,877 INFO 71097 [egg-mongoose] starting...
+2022-05-16 15:23:11,908 INFO 71097 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:23:11,910 INFO 71097 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:23:11,911 INFO 71097 [egg-watcher:application] watcher start success
+2022-05-16 15:23:11,929 INFO 71097 [egg:core] dump config after ready, 16ms
+2022-05-16 15:23:23,447 INFO 71118 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:23:23,468 INFO 71118 [egg-multipart] stream mode enable
+2022-05-16 15:23:23,687 INFO 71118 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:23:23,786 INFO 71118 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:23:23,790 INFO 71118 [egg-security] use csrf middleware
+2022-05-16 15:23:23,791 INFO 71118 [egg-security] use methodnoallow middleware
+2022-05-16 15:23:23,792 INFO 71118 [egg-security] use noopen middleware
+2022-05-16 15:23:23,793 INFO 71118 [egg-security] use nosniff middleware
+2022-05-16 15:23:23,793 INFO 71118 [egg-security] use xssProtection middleware
+2022-05-16 15:23:23,794 INFO 71118 [egg-security] use xframe middleware
+2022-05-16 15:23:23,794 INFO 71118 [egg-security] use dta middleware
+2022-05-16 15:23:23,794 INFO 71118 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:23:23,804 INFO 71118 [egg:core] dump config after load, 5ms
+2022-05-16 15:23:23,806 INFO 71118 [egg-mongoose] starting...
+2022-05-16 15:23:23,832 INFO 71118 [egg-watcher:application] watcher start success
+2022-05-16 15:23:23,835 INFO 71118 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:23:23,836 INFO 71118 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:23:23,846 INFO 71118 [egg:core] dump config after ready, 5ms
+2022-05-16 15:24:00,096 INFO 71151 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:24:00,118 INFO 71151 [egg-multipart] stream mode enable
+2022-05-16 15:24:00,367 INFO 71151 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:24:00,462 INFO 71151 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:24:00,466 INFO 71151 [egg-security] use csrf middleware
+2022-05-16 15:24:00,466 INFO 71151 [egg-security] use methodnoallow middleware
+2022-05-16 15:24:00,467 INFO 71151 [egg-security] use noopen middleware
+2022-05-16 15:24:00,468 INFO 71151 [egg-security] use nosniff middleware
+2022-05-16 15:24:00,469 INFO 71151 [egg-security] use xssProtection middleware
+2022-05-16 15:24:00,469 INFO 71151 [egg-security] use xframe middleware
+2022-05-16 15:24:00,470 INFO 71151 [egg-security] use dta middleware
+2022-05-16 15:24:00,470 INFO 71151 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:24:00,481 INFO 71151 [egg:core] dump config after load, 5ms
+2022-05-16 15:24:00,483 INFO 71151 [egg-mongoose] starting...
+2022-05-16 15:24:00,517 INFO 71151 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:24:00,521 INFO 71151 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:24:00,523 INFO 71151 [egg-watcher:application] watcher start success
+2022-05-16 15:24:00,533 INFO 71151 [egg:core] dump config after ready, 8ms
+2022-05-16 15:24:13,964 INFO 71180 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:24:13,990 INFO 71180 [egg-multipart] stream mode enable
+2022-05-16 15:24:14,224 INFO 71180 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:24:14,321 INFO 71180 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:24:14,326 INFO 71180 [egg-security] use csrf middleware
+2022-05-16 15:24:14,326 INFO 71180 [egg-security] use methodnoallow middleware
+2022-05-16 15:24:14,327 INFO 71180 [egg-security] use noopen middleware
+2022-05-16 15:24:14,327 INFO 71180 [egg-security] use nosniff middleware
+2022-05-16 15:24:14,328 INFO 71180 [egg-security] use xssProtection middleware
+2022-05-16 15:24:14,328 INFO 71180 [egg-security] use xframe middleware
+2022-05-16 15:24:14,328 INFO 71180 [egg-security] use dta middleware
+2022-05-16 15:24:14,328 INFO 71180 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:24:14,341 INFO 71180 [egg:core] dump config after load, 5ms
+2022-05-16 15:24:14,343 INFO 71180 [egg-mongoose] starting...
+2022-05-16 15:24:14,365 INFO 71180 [egg-watcher:application] watcher start success
+2022-05-16 15:24:14,367 INFO 71180 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:24:14,368 INFO 71180 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:24:14,376 INFO 71180 [egg:core] dump config after ready, 7ms
+2022-05-16 15:26:41,794 INFO 71244 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:26:41,817 INFO 71244 [egg-multipart] stream mode enable
+2022-05-16 15:26:42,049 INFO 71244 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:26:42,146 INFO 71244 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:26:42,150 INFO 71244 [egg-security] use csrf middleware
+2022-05-16 15:26:42,151 INFO 71244 [egg-security] use methodnoallow middleware
+2022-05-16 15:26:42,151 INFO 71244 [egg-security] use noopen middleware
+2022-05-16 15:26:42,152 INFO 71244 [egg-security] use nosniff middleware
+2022-05-16 15:26:42,152 INFO 71244 [egg-security] use xssProtection middleware
+2022-05-16 15:26:42,153 INFO 71244 [egg-security] use xframe middleware
+2022-05-16 15:26:42,153 INFO 71244 [egg-security] use dta middleware
+2022-05-16 15:26:42,153 INFO 71244 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:26:42,165 INFO 71244 [egg:core] dump config after load, 5ms
+2022-05-16 15:26:42,167 INFO 71244 [egg-mongoose] starting...
+2022-05-16 15:26:42,184 INFO 71244 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:26:42,185 INFO 71244 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:26:42,186 INFO 71244 [egg-watcher:application] watcher start success
+2022-05-16 15:26:42,208 INFO 71244 [egg:core] dump config after ready, 19ms
+2022-05-16 15:34:15,694 INFO 71419 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:34:15,715 INFO 71419 [egg-multipart] stream mode enable
+2022-05-16 15:34:15,934 INFO 71419 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:34:16,023 INFO 71419 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:34:16,027 INFO 71419 [egg-security] use csrf middleware
+2022-05-16 15:34:16,027 INFO 71419 [egg-security] use methodnoallow middleware
+2022-05-16 15:34:16,028 INFO 71419 [egg-security] use noopen middleware
+2022-05-16 15:34:16,028 INFO 71419 [egg-security] use nosniff middleware
+2022-05-16 15:34:16,029 INFO 71419 [egg-security] use xssProtection middleware
+2022-05-16 15:34:16,029 INFO 71419 [egg-security] use xframe middleware
+2022-05-16 15:34:16,029 INFO 71419 [egg-security] use dta middleware
+2022-05-16 15:34:16,029 INFO 71419 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:34:16,038 INFO 71419 [egg:core] dump config after load, 5ms
+2022-05-16 15:34:16,040 INFO 71419 [egg-mongoose] starting...
+2022-05-16 15:34:16,053 INFO 71419 [egg-watcher:application] watcher start success
+2022-05-16 15:34:16,056 INFO 71419 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:34:16,057 INFO 71419 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:34:16,068 INFO 71419 [egg:core] dump config after ready, 9ms
+2022-05-16 15:34:49,570 INFO 71458 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:34:49,592 INFO 71458 [egg-multipart] stream mode enable
+2022-05-16 15:34:49,802 INFO 71458 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:34:49,898 INFO 71458 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:34:49,902 INFO 71458 [egg-security] use csrf middleware
+2022-05-16 15:34:49,902 INFO 71458 [egg-security] use methodnoallow middleware
+2022-05-16 15:34:49,903 INFO 71458 [egg-security] use noopen middleware
+2022-05-16 15:34:49,903 INFO 71458 [egg-security] use nosniff middleware
+2022-05-16 15:34:49,903 INFO 71458 [egg-security] use xssProtection middleware
+2022-05-16 15:34:49,904 INFO 71458 [egg-security] use xframe middleware
+2022-05-16 15:34:49,904 INFO 71458 [egg-security] use dta middleware
+2022-05-16 15:34:49,904 INFO 71458 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:34:49,913 INFO 71458 [egg:core] dump config after load, 4ms
+2022-05-16 15:34:49,916 INFO 71458 [egg-mongoose] starting...
+2022-05-16 15:34:49,932 INFO 71458 [egg-watcher:application] watcher start success
+2022-05-16 15:34:49,935 INFO 71458 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:34:49,935 INFO 71458 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:34:49,946 INFO 71458 [egg:core] dump config after ready, 8ms
+2022-05-16 15:34:58,199 INFO 71483 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:34:58,227 INFO 71483 [egg-multipart] stream mode enable
+2022-05-16 15:34:58,461 INFO 71483 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:34:58,548 INFO 71483 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:34:58,551 INFO 71483 [egg-security] use csrf middleware
+2022-05-16 15:34:58,552 INFO 71483 [egg-security] use methodnoallow middleware
+2022-05-16 15:34:58,552 INFO 71483 [egg-security] use noopen middleware
+2022-05-16 15:34:58,553 INFO 71483 [egg-security] use nosniff middleware
+2022-05-16 15:34:58,554 INFO 71483 [egg-security] use xssProtection middleware
+2022-05-16 15:34:58,554 INFO 71483 [egg-security] use xframe middleware
+2022-05-16 15:34:58,554 INFO 71483 [egg-security] use dta middleware
+2022-05-16 15:34:58,554 INFO 71483 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:34:58,563 INFO 71483 [egg:core] dump config after load, 5ms
+2022-05-16 15:34:58,565 INFO 71483 [egg-mongoose] starting...
+2022-05-16 15:34:58,580 INFO 71483 [egg-watcher:application] watcher start success
+2022-05-16 15:34:58,606 INFO 71483 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:34:58,622 INFO 71483 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:34:58,636 INFO 71483 [egg:core] dump config after ready, 9ms
+2022-05-16 15:35:11,610 INFO 71498 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:35:11,630 INFO 71498 [egg-multipart] stream mode enable
+2022-05-16 15:35:11,840 INFO 71498 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:35:11,916 INFO 71498 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:35:11,920 INFO 71498 [egg-security] use csrf middleware
+2022-05-16 15:35:11,920 INFO 71498 [egg-security] use methodnoallow middleware
+2022-05-16 15:35:11,920 INFO 71498 [egg-security] use noopen middleware
+2022-05-16 15:35:11,921 INFO 71498 [egg-security] use nosniff middleware
+2022-05-16 15:35:11,921 INFO 71498 [egg-security] use xssProtection middleware
+2022-05-16 15:35:11,921 INFO 71498 [egg-security] use xframe middleware
+2022-05-16 15:35:11,922 INFO 71498 [egg-security] use dta middleware
+2022-05-16 15:35:11,922 INFO 71498 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:35:11,931 INFO 71498 [egg:core] dump config after load, 5ms
+2022-05-16 15:35:11,933 INFO 71498 [egg-mongoose] starting...
+2022-05-16 15:35:11,953 INFO 71498 [egg-watcher:application] watcher start success
+2022-05-16 15:35:11,957 INFO 71498 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:35:11,958 INFO 71498 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:35:11,966 INFO 71498 [egg:core] dump config after ready, 6ms
+2022-05-16 15:35:17,267 INFO 71512 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:35:17,289 INFO 71512 [egg-multipart] stream mode enable
+2022-05-16 15:35:17,609 INFO 71512 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:35:17,736 INFO 71512 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:35:17,740 INFO 71512 [egg-security] use csrf middleware
+2022-05-16 15:35:17,741 INFO 71512 [egg-security] use methodnoallow middleware
+2022-05-16 15:35:17,742 INFO 71512 [egg-security] use noopen middleware
+2022-05-16 15:35:17,742 INFO 71512 [egg-security] use nosniff middleware
+2022-05-16 15:35:17,743 INFO 71512 [egg-security] use xssProtection middleware
+2022-05-16 15:35:17,743 INFO 71512 [egg-security] use xframe middleware
+2022-05-16 15:35:17,744 INFO 71512 [egg-security] use dta middleware
+2022-05-16 15:35:17,744 INFO 71512 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:35:17,754 INFO 71512 [egg:core] dump config after load, 5ms
+2022-05-16 15:35:17,756 INFO 71512 [egg-mongoose] starting...
+2022-05-16 15:35:17,770 INFO 71512 [egg-watcher:application] watcher start success
+2022-05-16 15:35:17,772 INFO 71512 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:35:17,773 INFO 71512 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:35:17,782 INFO 71512 [egg:core] dump config after ready, 7ms
+2022-05-16 15:37:01,709 INFO 71548 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:37:01,730 INFO 71548 [egg-multipart] stream mode enable
+2022-05-16 15:37:02,004 INFO 71548 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:37:02,124 INFO 71548 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:37:02,127 INFO 71548 [egg-security] use csrf middleware
+2022-05-16 15:37:02,128 INFO 71548 [egg-security] use methodnoallow middleware
+2022-05-16 15:37:02,129 INFO 71548 [egg-security] use noopen middleware
+2022-05-16 15:37:02,129 INFO 71548 [egg-security] use nosniff middleware
+2022-05-16 15:37:02,130 INFO 71548 [egg-security] use xssProtection middleware
+2022-05-16 15:37:02,130 INFO 71548 [egg-security] use xframe middleware
+2022-05-16 15:37:02,131 INFO 71548 [egg-security] use dta middleware
+2022-05-16 15:37:02,131 INFO 71548 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:37:02,141 INFO 71548 [egg:core] dump config after load, 5ms
+2022-05-16 15:37:02,143 INFO 71548 [egg-mongoose] starting...
+2022-05-16 15:37:02,160 INFO 71548 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:37:02,162 INFO 71548 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:37:02,163 INFO 71548 [egg-watcher:application] watcher start success
+2022-05-16 15:37:02,186 INFO 71548 [egg:core] dump config after ready, 21ms
+2022-05-16 15:37:02,783 INFO 71559 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:37:02,801 INFO 71559 [egg-multipart] stream mode enable
+2022-05-16 15:37:02,960 INFO 71559 [egg-mongoose] connecting mongodb://127.0.0.1/jsTest
+2022-05-16 15:37:03,023 INFO 71559 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:37:03,026 INFO 71559 [egg-security] use csrf middleware
+2022-05-16 15:37:03,027 INFO 71559 [egg-security] use methodnoallow middleware
+2022-05-16 15:37:03,027 INFO 71559 [egg-security] use noopen middleware
+2022-05-16 15:37:03,027 INFO 71559 [egg-security] use nosniff middleware
+2022-05-16 15:37:03,027 INFO 71559 [egg-security] use xssProtection middleware
+2022-05-16 15:37:03,027 INFO 71559 [egg-security] use xframe middleware
+2022-05-16 15:37:03,028 INFO 71559 [egg-security] use dta middleware
+2022-05-16 15:37:03,028 INFO 71559 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:37:03,036 INFO 71559 [egg:core] dump config after load, 5ms
+2022-05-16 15:37:03,038 INFO 71559 [egg-mongoose] starting...
+2022-05-16 15:37:03,051 INFO 71559 [egg-watcher:application] watcher start success
+2022-05-16 15:37:03,054 INFO 71559 [egg-mongoose] mongodb://127.0.0.1/jsTest connected successfully
+2022-05-16 15:37:03,055 INFO 71559 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:37:03,066 INFO 71559 [egg:core] dump config after ready, 10ms
+2022-05-16 15:37:31,538 INFO 71587 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:37:31,560 INFO 71587 [egg-multipart] stream mode enable
+2022-05-16 15:37:31,780 INFO 71587 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:37:31,860 INFO 71587 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:37:31,864 INFO 71587 [egg-security] use csrf middleware
+2022-05-16 15:37:31,864 INFO 71587 [egg-security] use methodnoallow middleware
+2022-05-16 15:37:31,865 INFO 71587 [egg-security] use noopen middleware
+2022-05-16 15:37:31,865 INFO 71587 [egg-security] use nosniff middleware
+2022-05-16 15:37:31,865 INFO 71587 [egg-security] use xssProtection middleware
+2022-05-16 15:37:31,866 INFO 71587 [egg-security] use xframe middleware
+2022-05-16 15:37:31,866 INFO 71587 [egg-security] use dta middleware
+2022-05-16 15:37:31,866 INFO 71587 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:37:31,875 INFO 71587 [egg:core] dump config after load, 4ms
+2022-05-16 15:37:31,877 INFO 71587 [egg-mongoose] starting...
+2022-05-16 15:37:31,893 INFO 71587 [egg-watcher:application] watcher start success
+2022-05-16 15:37:31,896 INFO 71587 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:37:31,896 INFO 71587 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:37:31,904 INFO 71587 [egg:core] dump config after ready, 6ms
+2022-05-16 15:40:53,717 INFO 71704 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:40:53,756 INFO 71704 [egg-multipart] stream mode enable
+2022-05-16 15:40:54,005 INFO 71704 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:40:54,102 INFO 71704 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:40:54,106 INFO 71704 [egg-security] use csrf middleware
+2022-05-16 15:40:54,107 INFO 71704 [egg-security] use methodnoallow middleware
+2022-05-16 15:40:54,107 INFO 71704 [egg-security] use noopen middleware
+2022-05-16 15:40:54,107 INFO 71704 [egg-security] use nosniff middleware
+2022-05-16 15:40:54,108 INFO 71704 [egg-security] use xssProtection middleware
+2022-05-16 15:40:54,108 INFO 71704 [egg-security] use xframe middleware
+2022-05-16 15:40:54,108 INFO 71704 [egg-security] use dta middleware
+2022-05-16 15:40:54,108 INFO 71704 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:40:54,118 INFO 71704 [egg:core] dump config after load, 5ms
+2022-05-16 15:40:54,120 INFO 71704 [egg-mongoose] starting...
+2022-05-16 15:40:54,140 INFO 71704 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:40:54,142 INFO 71704 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:40:54,143 INFO 71704 [egg-watcher:application] watcher start success
+2022-05-16 15:40:54,153 INFO 71704 [egg:core] dump config after ready, 8ms
+2022-05-16 15:40:56,205 INFO 71717 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:40:56,224 INFO 71717 [egg-multipart] stream mode enable
+2022-05-16 15:40:56,383 INFO 71717 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:40:56,442 INFO 71717 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:40:56,445 INFO 71717 [egg-security] use csrf middleware
+2022-05-16 15:40:56,446 INFO 71717 [egg-security] use methodnoallow middleware
+2022-05-16 15:40:56,446 INFO 71717 [egg-security] use noopen middleware
+2022-05-16 15:40:56,446 INFO 71717 [egg-security] use nosniff middleware
+2022-05-16 15:40:56,446 INFO 71717 [egg-security] use xssProtection middleware
+2022-05-16 15:40:56,446 INFO 71717 [egg-security] use xframe middleware
+2022-05-16 15:40:56,447 INFO 71717 [egg-security] use dta middleware
+2022-05-16 15:40:56,447 INFO 71717 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:40:56,456 INFO 71717 [egg:core] dump config after load, 5ms
+2022-05-16 15:40:56,458 INFO 71717 [egg-mongoose] starting...
+2022-05-16 15:40:56,479 INFO 71717 [egg-watcher:application] watcher start success
+2022-05-16 15:40:56,490 INFO 71717 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:40:56,492 INFO 71717 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:40:56,501 INFO 71717 [egg:core] dump config after ready, 8ms
+2022-05-16 15:41:05,727 INFO 71740 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:41:05,759 INFO 71740 [egg-multipart] stream mode enable
+2022-05-16 15:41:05,940 INFO 71740 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:41:06,001 INFO 71740 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:41:06,004 INFO 71740 [egg-security] use csrf middleware
+2022-05-16 15:41:06,004 INFO 71740 [egg-security] use methodnoallow middleware
+2022-05-16 15:41:06,005 INFO 71740 [egg-security] use noopen middleware
+2022-05-16 15:41:06,005 INFO 71740 [egg-security] use nosniff middleware
+2022-05-16 15:41:06,005 INFO 71740 [egg-security] use xssProtection middleware
+2022-05-16 15:41:06,006 INFO 71740 [egg-security] use xframe middleware
+2022-05-16 15:41:06,006 INFO 71740 [egg-security] use dta middleware
+2022-05-16 15:41:06,006 INFO 71740 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:41:06,015 INFO 71740 [egg:core] dump config after load, 4ms
+2022-05-16 15:41:06,016 INFO 71740 [egg-mongoose] starting...
+2022-05-16 15:41:06,032 INFO 71740 [egg-watcher:application] watcher start success
+2022-05-16 15:41:06,035 INFO 71740 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:41:06,036 INFO 71740 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:41:06,043 INFO 71740 [egg:core] dump config after ready, 5ms
+2022-05-16 15:41:09,246 INFO 71750 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:41:09,283 INFO 71750 [egg-multipart] stream mode enable
+2022-05-16 15:41:09,506 INFO 71750 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:41:09,600 INFO 71750 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:41:09,604 INFO 71750 [egg-security] use csrf middleware
+2022-05-16 15:41:09,604 INFO 71750 [egg-security] use methodnoallow middleware
+2022-05-16 15:41:09,604 INFO 71750 [egg-security] use noopen middleware
+2022-05-16 15:41:09,605 INFO 71750 [egg-security] use nosniff middleware
+2022-05-16 15:41:09,605 INFO 71750 [egg-security] use xssProtection middleware
+2022-05-16 15:41:09,605 INFO 71750 [egg-security] use xframe middleware
+2022-05-16 15:41:09,605 INFO 71750 [egg-security] use dta middleware
+2022-05-16 15:41:09,605 INFO 71750 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:41:09,614 INFO 71750 [egg:core] dump config after load, 4ms
+2022-05-16 15:41:09,616 INFO 71750 [egg-mongoose] starting...
+2022-05-16 15:41:09,637 INFO 71750 [egg-watcher:application] watcher start success
+2022-05-16 15:41:09,639 INFO 71750 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:41:09,640 INFO 71750 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:41:09,650 INFO 71750 [egg:core] dump config after ready, 8ms
+2022-05-16 15:41:43,773 INFO 71790 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:41:43,806 INFO 71790 [egg-multipart] stream mode enable
+2022-05-16 15:41:44,113 INFO 71790 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:41:44,202 INFO 71790 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:41:44,206 INFO 71790 [egg-security] use csrf middleware
+2022-05-16 15:41:44,206 INFO 71790 [egg-security] use methodnoallow middleware
+2022-05-16 15:41:44,207 INFO 71790 [egg-security] use noopen middleware
+2022-05-16 15:41:44,207 INFO 71790 [egg-security] use nosniff middleware
+2022-05-16 15:41:44,208 INFO 71790 [egg-security] use xssProtection middleware
+2022-05-16 15:41:44,208 INFO 71790 [egg-security] use xframe middleware
+2022-05-16 15:41:44,208 INFO 71790 [egg-security] use dta middleware
+2022-05-16 15:41:44,208 INFO 71790 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:41:44,217 INFO 71790 [egg:core] dump config after load, 4ms
+2022-05-16 15:41:44,219 INFO 71790 [egg-mongoose] starting...
+2022-05-16 15:41:44,239 INFO 71790 [egg-watcher:application] watcher start success
+2022-05-16 15:41:44,242 INFO 71790 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:41:44,243 INFO 71790 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:41:44,251 INFO 71790 [egg:core] dump config after ready, 6ms
+2022-05-16 15:41:57,828 INFO 71812 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:41:57,848 INFO 71812 [egg-multipart] stream mode enable
+2022-05-16 15:41:58,114 INFO 71812 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:41:58,202 INFO 71812 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:41:58,206 INFO 71812 [egg-security] use csrf middleware
+2022-05-16 15:41:58,207 INFO 71812 [egg-security] use methodnoallow middleware
+2022-05-16 15:41:58,207 INFO 71812 [egg-security] use noopen middleware
+2022-05-16 15:41:58,207 INFO 71812 [egg-security] use nosniff middleware
+2022-05-16 15:41:58,208 INFO 71812 [egg-security] use xssProtection middleware
+2022-05-16 15:41:58,208 INFO 71812 [egg-security] use xframe middleware
+2022-05-16 15:41:58,208 INFO 71812 [egg-security] use dta middleware
+2022-05-16 15:41:58,208 INFO 71812 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:41:58,216 INFO 71812 [egg:core] dump config after load, 3ms
+2022-05-16 15:41:58,218 INFO 71812 [egg-mongoose] starting...
+2022-05-16 15:41:58,233 INFO 71812 [egg-watcher:application] watcher start success
+2022-05-16 15:41:58,235 INFO 71812 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:41:58,236 INFO 71812 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:41:58,245 INFO 71812 [egg:core] dump config after ready, 7ms
+2022-05-16 15:42:52,542 INFO 71839 [egg:logger] init all loggers with options: {"dir":"/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/logs/eggDemo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggDemo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-05-16 15:42:52,569 INFO 71839 [egg-multipart] stream mode enable
+2022-05-16 15:42:52,814 INFO 71839 [egg-mongoose] connecting mongodb://127.0.0.1/sjTest
+2022-05-16 15:42:52,987 INFO 71839 [egg-static] starting static serve /public/ -> /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/public
+2022-05-16 15:42:52,991 INFO 71839 [egg-security] use csrf middleware
+2022-05-16 15:42:52,992 INFO 71839 [egg-security] use methodnoallow middleware
+2022-05-16 15:42:52,993 INFO 71839 [egg-security] use noopen middleware
+2022-05-16 15:42:52,993 INFO 71839 [egg-security] use nosniff middleware
+2022-05-16 15:42:52,994 INFO 71839 [egg-security] use xssProtection middleware
+2022-05-16 15:42:52,994 INFO 71839 [egg-security] use xframe middleware
+2022-05-16 15:42:52,995 INFO 71839 [egg-security] use dta middleware
+2022-05-16 15:42:52,995 INFO 71839 [egg-security] compose 7 middlewares into one security middleware
+2022-05-16 15:42:53,007 INFO 71839 [egg:core] dump config after load, 6ms
+2022-05-16 15:42:53,009 INFO 71839 [egg-mongoose] starting...
+2022-05-16 15:42:53,030 INFO 71839 [egg-mongoose] mongodb://127.0.0.1/sjTest connected successfully
+2022-05-16 15:42:53,031 INFO 71839 [egg-mongoose] instance[0] start successfully
+2022-05-16 15:42:53,033 INFO 71839 [egg-watcher:application] watcher start success
+2022-05-16 15:42:53,049 INFO 71839 [egg:core] dump config after ready, 14ms

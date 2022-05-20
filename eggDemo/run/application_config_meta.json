@@ -1,0 +1,295 @@
+{
+  "keys": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js"
+    },
+    "root": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+    "serverUrl": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js"
+  },
+  "mongoose": {
+    "url": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+    "options": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+    "plugins": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+    "loadModel": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "middleware": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "name": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "version": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "description": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "main": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "test": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "author": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "license": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "env": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "level": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "port": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg/config/config.default.js"
+}

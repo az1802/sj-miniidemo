@@ -1,0 +1,325 @@
+2022-05-16 01:03:27,205 ERROR 54479 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:32,666 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:35,974 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:03:36,829 ERROR 54479 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: ctx.body is not a function
+    at HomeController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/home.js:6:9)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54479
+hostname: 192.168.0.101
+
+2022-05-16 01:18:13,796 ERROR 55787 [-/127.0.0.1/-/5ms GET /news] nodejs.TypeError: Cannot destructure property 'serverUrl' of 'this.config.news' as it is undefined.
+    at NewsService.list (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/service/news.js:6:13)
+    at NewsController.list (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/news.js:7:45)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+
+pid: 55787
+hostname: 192.168.0.101
+
+2022-05-16 01:18:46,684 ERROR 55817 [-/127.0.0.1/-/5042ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5017,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 55817
+hostname: 192.168.0.101
+
+2022-05-16 01:19:17,839 ERROR 55844 [-/127.0.0.1/-/5049ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/urllib/lib/urllib.js:983:15)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 55844
+hostname: 192.168.0.101
+
+2022-05-16 01:49:28,148 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 291471ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 01:55:01,930 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 293787ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 01:58:22,291 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 160218ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 02:03:56,211 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 293891ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 02:09:43,280 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 286965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 02:15:20,554 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 297102ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 03:22:17,644 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 294322ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 03:27:53,608 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 295802ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 04:33:04,387 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 290208ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 04:38:39,002 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 294413ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 04:44:14,794 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 295768ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 05:51:18,274 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 302990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 07:02:22,194 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 294352ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 07:08:12,157 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 289953ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 08:13:17,748 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 285191ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 08:18:51,686 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 293969ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 08:49:58,324 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 226404ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 09:08:31,463 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 1049195ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 09:23:42,876 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 911410ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 10:10:35,701 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 945340ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 12:47:52,437 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 435430ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 13:05:06,018 ERROR 54478 nodejs.ClusterClientNoResponseError: client no response in 993401ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 54478
+hostname: 192.168.0.101
+
+2022-05-16 15:18:25,717 ERROR 70894 [-/127.0.0.1/-/4ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/user.js:6:38)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at testMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/middleware/test.js:4:11)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 70894
+hostname: sunjMacBook-Pro.local
+
+2022-05-16 15:35:20,331 ERROR 71512 [-/127.0.0.1/-/8ms GET /user] nodejs.ParallelSaveError: Can't save() the same doc multiple times in parallel. Document: 6281feb8a3bb4117591bfe8b
+    at model.Model.save (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/mongoose/lib/model.js:486:20)
+    at UserController.index (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/controller/user.js:11:30)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:45:18)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:44:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/@eggjs/router/lib/router.js:191:33)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at testMiddleware (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/app/middleware/test.js:4:11)
+    at dispatch (/Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/m1pro/Desktop/mine/sj-miniidemo/eggDemo/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+
+pid: 71512
+hostname: sunjMacBook-Pro.local
+

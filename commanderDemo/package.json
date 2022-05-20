@@ -1,0 +1,12 @@
+{
+  "name": "commanderDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "sj-commander": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^9.2.0"
+  }
+}
